@@ -55,4 +55,4 @@ Indexing to [Freva evaluation system](https://www.xces.dkrz.de) is indicated in 
 - Model: ifs
 - Experiment: era5
 - Comments: March data contains 31st day only
-- Indexed: No
+- Indexed: (False, 'Failed (579) - 12/12/2023 15:38:49')

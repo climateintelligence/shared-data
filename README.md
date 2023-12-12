@@ -36,3 +36,23 @@ Indexing to [Freva evaluation system](https://www.xces.dkrz.de) is indicated in 
 - Variable: tasmin
 - Comments: 
 - Indexed: 15840 files - 12/12/2023 14:10:38
+
+## ERA5 global hourly 2m temperature
+
+- Dataid: b382634.12122023.153639
+- Modified date: 12/12/2023 15:36:39
+- Userid: b382634
+- Username: Ronan McAdam
+- Data path: /work/bk1318/b382634/ERA5/hourly/t2m//**
+- Number of added files: 581
+- Total size (in MB): 725837
+- Variable: t2m
+- Task: 3.2
+- Source: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview
+- Processes: None
+- Product: b382634-reanalysis
+- Institute: ecmwf
+- Model: ifs
+- Experiment: era5
+- Comments: March data contains 31st day only
+- Indexed: No

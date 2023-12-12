@@ -35,4 +35,4 @@ Indexing to [Freva evaluation system](https://www.xces.dkrz.de) is indicated in 
 - Experiment: 20cr-v3
 - Variable: tasmin
 - Comments: 
-- Indexed: No
+- Indexed: 15840 files - 12/12/2023 14:10:38

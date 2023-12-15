@@ -14,4 +14,4 @@ clintshare <path-of-data>
 - Each section corresponds to a type of data and can be identified with its title and its unique ID `dataid`.
 - Each section should corresponds to data with unique product, institute, model, experiment and variable fields.
 
-Indexing to [Freva evaluation system](https://www.xces.dkrz.de) is indicated in `Indexed`.
+Indexing to [Freva evaluation system](https://gems.dkrz.de) is indicated in `Indexed`.

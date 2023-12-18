@@ -57,4 +57,4 @@ Indexing to [Freva evaluation system](https://gems.dkrz.de) is indicated in `Ind
 - Model: gfs
 - Experiment: 20cr-v3
 - Comments: 
-- Indexed: No
+- Indexed: 15840 files - 18/12/2023 16:41:13 - [Link Freva](https://gems.dkrz.de/solr/data-browser/?product=k204239-20cr-v3&project=clint&institute=noaa-cires&model=gfs&experiment=20cr-v3&variable=tasmin&time_frequency=day)

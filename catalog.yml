@@ -17,3 +17,23 @@
   Experiment: era5
   Comments: March data contains 31st day only
   Indexed: (False, 'Failed (579) - 12/12/2023 15:38:49')
+ k204239.18122023.150101:
+  Modified date: 18/12/2023 15:01:01
+  Userid: k204239
+  Username: Etienne Plésiat
+  Contact: see [email list](https://github.com/climateintelligence/contacts#etienne-plésiat)
+  Data path: /home/k/k204239/works/data/pool/20crv3/day/tasmin/**
+  Number of added files: 15840
+  Total size (in MB): 978375
+  Variable: tasmin
+  Time frequency: day
+  Title: Daily global minimum 2m temperature from 20cr-v3
+  Task: 5.2
+  Source: https://portal.nersc.gov/archive/home/projects/incite11/www/20C_Reanalysis_version_3/everymember_anal_netcdf/subdaily/TMIN2m
+  Processes: Daily minimum of the original 3-hourly data using CDO, zip compression using CDO
+  Product: k204239-20cr-v3
+  Institute: noaa-cires
+  Model: gfs
+  Experiment: 20cr-v3
+  Comments: 
+  Indexed: No

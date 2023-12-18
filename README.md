@@ -23,6 +23,7 @@ Indexing to [Freva evaluation system](https://gems.dkrz.de) is indicated in `Ind
 - Modified date: 12/12/2023 15:36:39
 - Userid: b382634
 - Username: Ronan McAdam
+- Contact: see [email list](https://github.com/climateintelligence/contacts#ronan-mcadam)
 - Data path: /work/bk1318/b382634/ERA5/hourly/t2m//**
 - Number of added files: 581
 - Total size (in MB): 725837
@@ -35,7 +36,7 @@ Indexing to [Freva evaluation system](https://gems.dkrz.de) is indicated in `Ind
 - Model: ifs
 - Experiment: era5
 - Comments: March data contains 31st day only
-- Indexed: (False, 'Failed (579) - 12/12/2023 15:38:49')
+- Indexed: 581 files - 18/12/2023 16:53:24 - [Link Freva](https://gems.dkrz.de/solr/data-browser/?product=b382634-reanalysis&project=clint&institute=ecmwf&model=ifs&experiment=era5&variable=t2m&time_frequency=1hr)
 
 ## Daily global minimum 2m temperature from 20cr-v3
 
